@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TokoPress Slider v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-16 16:06:00+0000\n"
+"Last-Translator: tokopressdemo <demo@toko.press>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: slider/slider.php:66
+#@ tp-slider
+msgid "Title"
+msgstr ""
+
+#: slider/slider.php:65
+#@ tp-slider
+msgid "Description"
+msgstr ""
+
+#: slider/slider.php:67
+#@ tp-slider
+msgid "Button Text"
+msgstr ""
+
+#: slider/slider.php:68
+#@ tp-slider
+msgid "Button URL"
+msgstr ""
+
+#: Custom-Meta-Boxes/classes.fields.php:1090
+#@ tp-slider
+msgid "None"
+msgstr ""
+
+#: Custom-Meta-Boxes/class.cmb-meta-box.php:86
+#@ tp-slider
+msgid "Are you sure you want to delete this field?"
+msgstr ""
+
+#: Custom-Meta-Boxes/classes.fields.php:68
+#: slider/slider.php:14
+#@ tp-slider
+msgid "Add New"
+msgstr ""
+
+#: Custom-Meta-Boxes/classes.fields.php:69
+#@ tp-slider
+msgid "Remove Field"
+msgstr ""
+
+#: Custom-Meta-Boxes/classes.fields.php:461
+#@ tp-slider
+msgid "Add File"
+msgstr ""
+
+#: Custom-Meta-Boxes/classes.fields.php:479
+#: Custom-Meta-Boxes/classes.fields.php:553
+#@ tp-slider
+msgid "Remove"
+msgstr ""
+
+#: Custom-Meta-Boxes/classes.fields.php:541
+#@ tp-slider
+msgid "Add Image"
+msgstr ""
+
+#: Custom-Meta-Boxes/classes.fields.php:1120
+#@ tp-slider
+msgid "Type to search"
+msgstr ""
+
+#: Custom-Meta-Boxes/classes.fields.php:1447
+#@ tp-slider
+msgid "Add New Group"
+msgstr ""
+
+#: Custom-Meta-Boxes/classes.fields.php:1448
+#@ tp-slider
+msgid "Remove Group"
+msgstr ""
+
+#: Custom-Meta-Boxes/classes.fields.php:1647
+#@ tp-slider
+msgid "Drag to set the exact location"
+msgstr ""
+
+#: slider/slider.php:7
+#@ tp-slider
+msgctxt "Post Type General Name"
+msgid "Sliders"
+msgstr ""
+
+#: slider/slider.php:8
+#@ tp-slider
+msgctxt "Post Type Singular Name"
+msgid "Slider"
+msgstr ""
+
+#: slider/slider.php:9
+#: slider/slider.php:10
+#@ tp-slider
+msgid "Sliders"
+msgstr ""
+
+#: slider/slider.php:11
+#@ tp-slider
+msgid "Parent Item:"
+msgstr ""
+
+#: slider/slider.php:12
+#@ tp-slider
+msgid "All Sliders"
+msgstr ""
+
+#: slider/slider.php:13
+#@ tp-slider
+msgid "Add New Slider"
+msgstr ""
+
+#: slider/slider.php:15
+#@ tp-slider
+msgid "New Slider"
+msgstr ""
+
+#: slider/slider.php:16
+#@ tp-slider
+msgid "Edit Slider"
+msgstr ""
+
+#: slider/slider.php:17
+#@ tp-slider
+msgid "Update Slider"
+msgstr ""
+
+#: slider/slider.php:18
+#@ tp-slider
+msgid "View Slider"
+msgstr ""
+
+#: slider/slider.php:19
+#@ tp-slider
+msgid "Search Slider"
+msgstr ""
+
+#: slider/slider.php:20
+#@ tp-slider
+msgid "Not found"
+msgstr ""
+
+#: slider/slider.php:21
+#@ tp-slider
+msgid "Not found in Trash"
+msgstr ""
+
+#: slider/slider.php:24
+#: slider/slider.php:25
+#@ tp-slider
+msgid "Simple Slider"
+msgstr ""
+
+#: slider/slider.php:51
+#: slider/slider.php:78
+#@ tp-slider
+msgid "Shortcode"
+msgstr ""
+
+#: slider/slider.php:69
+#@ tp-slider
+msgid "Background Image"
+msgstr ""
+
+#: slider/slider.php:73
+#@ tp-slider
+msgid "Edit Slides"
+msgstr ""
+
+#: slider/slider.php:186
+#@ tp-slider
+msgid "Slider ID"
+msgstr ""
+
+#: slider/slider.php:193
+#@ tp-slider
+msgid "TP - Slider"
+msgstr ""
+

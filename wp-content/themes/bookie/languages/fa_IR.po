@@ -1,0 +1,1233 @@
+# Copyright (C) 2016 TokoPress
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookie 1.1.1\n"
+"Report-Msgid-Bugs-To: http://toko.press\n"
+"POT-Creation-Date: 2016-04-09 20:43+0430\n"
+"PO-Revision-Date: 2016-04-12 15:23+0430\n"
+"Last-Translator: \n"
+"Language-Team: midiyaweb <midiyaweb@gmail.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;esc_attr_e;esc_attr__;"
+"_n;_nx;_nx:4c,1,2;_n:1,2\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: themes/bookie\n"
+"X-Poedit-SearchPath-1: plugins/bookie-wp-addons/featured-product\n"
+"X-Poedit-SearchPath-2: plugins/bookie-wp-addons/mc4wp-subscribe\n"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:30
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:57
+msgid "Featured Book"
+msgstr "کتاب ویژه"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:89
+msgid "Style"
+msgstr "استایل"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:92
+msgid "Style 1"
+msgstr "استایل 1"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:93
+msgid "Style 2"
+msgstr "استایل 2"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:100
+#: plugins/bookie-wp-addons/mc4wp-subscribe/bookie-mc4wp-subscribe.php:90
+msgid "Title"
+msgstr "عنوان"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:107
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:113
+msgid "Book Cover"
+msgstr "کاور کتاب"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:119
+msgid "Button Text"
+msgstr "متن دکمه"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:125
+msgid "Button URL"
+msgstr "لینک دکمه"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:131
+#: plugins/bookie-wp-addons/mc4wp-subscribe/bookie-mc4wp-subscribe.php:97
+msgid "Description"
+msgstr "توضیح"
+
+#: plugins/bookie-wp-addons/featured-product/bookie-vc-featured-product.php:138
+msgid "TP - Featured Book"
+msgstr "کتاب ویژه"
+
+#: plugins/bookie-wp-addons/mc4wp-subscribe/bookie-mc4wp-subscribe.php:23
+#: plugins/bookie-wp-addons/mc4wp-subscribe/bookie-mc4wp-subscribe.php:92
+msgid "Subscribe to our newsletter"
+msgstr "عضویت در خبرنامه ما"
+
+#: plugins/bookie-wp-addons/mc4wp-subscribe/bookie-mc4wp-subscribe.php:26
+#: plugins/bookie-wp-addons/mc4wp-subscribe/bookie-mc4wp-subscribe.php:99
+msgid "never miss our latest news and events updates"
+msgstr "از آخرین اخبار و به روز رسانی ها مطلع شوید"
+
+#: plugins/bookie-wp-addons/mc4wp-subscribe/bookie-mc4wp-subscribe.php:70
+msgid "TP - Subscribe Form"
+msgstr "فرم اشتراک"
+
+#: plugins/bookie-wp-addons/mc4wp-subscribe/bookie-mc4wp-subscribe.php:80
+msgid "Icon"
+msgstr "آیکن"
+
+#: plugins/bookie-wp-addons/mc4wp-subscribe/bookie-mc4wp-subscribe.php:92
+#: plugins/bookie-wp-addons/mc4wp-subscribe/bookie-mc4wp-subscribe.php:99
+msgid "Default:"
+msgstr "پیش‌‌فرض:"
+
+#: themes/bookie/block-book-details.php:19
+msgid "Book Details"
+msgstr "جزئیات کتاب"
+
+#: themes/bookie/block-book-details.php:29
+msgid "About The Author"
+msgstr "درباره نویسنده"
+
+#: themes/bookie/block-book-search.php:19
+msgid "Book Title"
+msgstr "عنوان کتاب"
+
+#: themes/bookie/block-book-search.php:31
+msgid "Book Category"
+msgstr "دسته بندی کتاب"
+
+#: themes/bookie/block-book-search.php:51
+msgid "Book Author"
+msgstr "نویسنده کتاب"
+
+#: themes/bookie/block-book-search.php:67
+msgid "Find Book"
+msgstr "پیدا کردن کتاب"
+
+#: themes/bookie/block-site-title-woocommerce.php:21
+msgid "Search Results:"
+msgstr "نتایج جستجو:"
+
+#: themes/bookie/block-site-title-woocommerce.php:25
+#: themes/bookie/block-site-title.php:101
+#: themes/bookie/inc/theme/breadcrumb.php:115
+msgid "404 - Not Found"
+msgstr "خطای 404 - پیدا نشد"
+
+#: themes/bookie/block-site-title-woocommerce.php:35
+#: themes/bookie/block-site-title-woocommerce.php:37
+#: themes/bookie/block-site-title.php:71
+msgid "Shop"
+msgstr "فروشگاه"
+
+#: themes/bookie/block-site-title.php:25
+#: themes/bookie/inc/theme/breadcrumb.php:22
+msgid "Home"
+msgstr "صفحه اصلی"
+
+#: themes/bookie/block-site-title.php:37
+#, php-format
+msgid "Tag: %s"
+msgstr "برچسب: %s"
+
+#: themes/bookie/block-site-title.php:53
+msgid "F d, Y"
+msgstr ""
+
+#: themes/bookie/block-site-title.php:57
+msgid "F Y"
+msgstr ""
+
+#: themes/bookie/block-site-title.php:61
+msgid "Y"
+msgstr ""
+
+#: themes/bookie/block-site-title.php:67
+msgid "Projects"
+msgstr "پروژه ها"
+
+#: themes/bookie/block-site-title.php:75
+msgid "Archives"
+msgstr "بایگانی ها"
+
+#: themes/bookie/block-site-title.php:87
+msgid "Media"
+msgstr "رسانه"
+
+#: themes/bookie/comments.php:28
+msgid "Pingback:"
+msgstr "پینگ بک:"
+
+#: themes/bookie/comments.php:28 themes/bookie/comments.php:48
+#: themes/bookie/inc/core/frontend.php:165
+msgid "Edit"
+msgstr "ویرایش"
+
+#: themes/bookie/comments.php:45
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: themes/bookie/comments.php:58
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در انتظار تایید است."
+
+#: themes/bookie/comments.php:87
+#, php-format
+msgctxt "comments title"
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "یک دیدگاه در مورد &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s دیدگاه در مورد &ldquo;%2$s&rdquo;"
+
+#: themes/bookie/comments.php:94 themes/bookie/comments.php:116
+msgid "Comment navigation"
+msgstr "پیمایش دیدگاه‌ها"
+
+#: themes/bookie/comments.php:96 themes/bookie/comments.php:118
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های قدیمی‌تر"
+
+#: themes/bookie/comments.php:97 themes/bookie/comments.php:119
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های جدید‌تر &rarr;"
+
+#: themes/bookie/comments.php:131
+msgid "Comments are closed."
+msgstr "ارسال نظر متوقف شده است."
+
+#: themes/bookie/comments.php:141 themes/bookie/inc/theme/frontend.php:230
+msgid "Your Name"
+msgstr "نام شما"
+
+#: themes/bookie/comments.php:142 themes/bookie/inc/theme/frontend.php:237
+msgid "Your Email"
+msgstr "ایمیل شما"
+
+#: themes/bookie/comments.php:143
+msgid "Your Website"
+msgstr "وب سایت شما"
+
+#: themes/bookie/comments.php:148
+msgid "Leave a Comment"
+msgstr "نوشتن دیدگاه"
+
+#: themes/bookie/comments.php:149
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "نظر بدهید برای %s"
+
+#: themes/bookie/comments.php:150
+msgid "Cancel Reply"
+msgstr "لغو پاسخ"
+
+#: themes/bookie/comments.php:151
+msgid "Post Comment"
+msgstr "ارسال نظر"
+
+#: themes/bookie/comments.php:152
+msgid "Your Comment"
+msgstr "دیدگاه شما"
+
+#: themes/bookie/comments.php:153
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"شما ممکن است از این برچسب ها و  خصوصیات <abbr title=\"HyperText Markup "
+"Language\">HTML</abbr>  استفاده کنید:"
+
+#: themes/bookie/content-404.php:5 themes/bookie/content-404.php:19
+msgid "Not Found"
+msgstr "یافت نشد"
+
+#: themes/bookie/content-404.php:7
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"برای انتشار اولین پست خود آماده هستید؟ <a href=\"%1$s\">از اینجا شروع کنید</"
+"a>."
+
+#: themes/bookie/content-404.php:11
+msgid "No Results"
+msgstr "موردی یافت نشد"
+
+#: themes/bookie/content-404.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"با عرض پوزش، اما هیچ یک از عبارات جستجو شما پیدا نشد. لطفا دوباره با کلمات "
+"کلیدی مختلف امتحان کنید."
+
+#: themes/bookie/content-404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+"ما نتوانستیم چیزی که شما بدنبال آن هستید را بیابیم. احتمالا جستجو می تواند به "
+"کارتان بیاید."
+
+#: themes/bookie/content-aside.php:14 themes/bookie/content-audio.php:17
+#: themes/bookie/content-chat.php:17 themes/bookie/content-gallery.php:22
+#: themes/bookie/content-image.php:22 themes/bookie/content-link.php:14
+#: themes/bookie/content-quote.php:14 themes/bookie/content-status.php:14
+#: themes/bookie/content-video.php:17 themes/bookie/content.php:17
+msgid "Sticky"
+msgstr "چسبان"
+
+#: themes/bookie/content-audio.php:37 themes/bookie/content-chat.php:31
+#: themes/bookie/content-gallery.php:42 themes/bookie/content-image.php:42
+#: themes/bookie/content-video.php:37 themes/bookie/content.php:31
+msgid "Posted"
+msgstr "ارسال شده"
+
+#: themes/bookie/content-audio.php:38 themes/bookie/content-chat.php:32
+#: themes/bookie/content-gallery.php:43 themes/bookie/content-image.php:43
+#: themes/bookie/content-video.php:38 themes/bookie/content.php:32
+msgid "by"
+msgstr "توسط"
+
+#: themes/bookie/content-audio.php:39 themes/bookie/content-chat.php:33
+#: themes/bookie/content-gallery.php:44 themes/bookie/content-image.php:44
+#: themes/bookie/content-video.php:39 themes/bookie/content.php:33
+msgid "under"
+msgstr "زیر"
+
+#: themes/bookie/content-audio.php:52 themes/bookie/content-chat.php:43
+#: themes/bookie/content-gallery.php:62 themes/bookie/content-image.php:62
+#: themes/bookie/content-video.php:52 themes/bookie/content.php:63
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: themes/bookie/content-chat.php:10 themes/bookie/content-gallery.php:14
+#: themes/bookie/content-image.php:14 themes/bookie/content.php:55
+msgid "Continue Reading &rarr;"
+msgstr "ادامه خواندن &larr;"
+
+#: themes/bookie/footer.php:68
+msgid "Copyright &copy; Bookie WordPress Theme"
+msgstr "کپی رایت 2016"
+
+#: themes/bookie/functions.php:97 themes/bookie/inc/theme/customize.php:105
+msgid "Header Navigation"
+msgstr "پیمایش هدر"
+
+#: themes/bookie/functions.php:98
+msgid "Footer Navigation"
+msgstr "پیمایش فوتر"
+
+#: themes/bookie/functions.php:111 themes/bookie/sidebar.php:7
+#: themes/bookie/sidebar.php:10
+msgid "Primary Sidebar"
+msgstr "ستون کناری اصلی"
+
+#: themes/bookie/functions.php:120 themes/bookie/sidebar-shop.php:7
+#: themes/bookie/sidebar-shop.php:10
+msgid "Shop Sidebar"
+msgstr "ستون ‌کناری فروشگاه"
+
+#: themes/bookie/functions.php:180
+msgid "on"
+msgstr "روشن"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های مورد نیاز"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "نصب افزونه ها"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "در حال نصب افزونه: %s"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "مشکلی در API افزونه به وجود آمده است."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت به نصب افزونه های مورد نیاز"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "بازگشت به پیشخوان"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:399
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3030
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت فعال شد."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:400
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2833
+#, fuzzy
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "افزونه زیر با موفقیت فعال شده است:"
+msgstr[1] "افزونه زیر با موفقیت فعال شده است:"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "هیچ اقدامی انجام نشد. افزونه  %1$s فعال بود."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+"پلاگین فعال نشد. ورژن جدید تری از %s برای قالب مورد نیاز است. لطفا پلاگین را "
+"بروزرسانی کنید."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "همه پلاگین ها با موفقیت نصب و فعال شدند.  %1$s"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "این اعلان را پنهان کن"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفا برای راهنمایی بیشتر با مدیریت وب سایت تماس بگیرید."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این افزونه نیاز دارد به بروزرسانی تا با قالب شما سازگار باشد."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "به روز رسانی مورد نیاز"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "پیکربندی مقادیر parent_slug را تنظیم کنید."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:829
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3439
+msgid "Return to the Dashboard"
+msgstr "بازگشت به پیشخوان"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:936
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+"بسته افزونه راه دور شامل پوشه ای با نامک مورد نظر نبوده، و با تغییر نام دادن "
+"کار نخواهد کرد."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:936
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:939
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"لطفا با ارائه دهنده افزونه تماس بگیرید و از آنها بخواهید برای بسته بندی "
+"افزونه خود بر اساس دستورالعمل های وردپرس عمل کنند."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:939
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"پوشه ی افزونه شامل یک یا چندین فایل میباشد که در پوشه ای قرار داده نشده اند."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:1882
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2168
+msgid "Required"
+msgstr "مورد نیاز"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2171
+msgid "Recommended"
+msgstr "پیشنهاد شده"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2187
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2190
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2193
+msgid "Pre-Packaged"
+msgstr "پیش بسته بندی شده"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2210
+msgid "Not Installed"
+msgstr "نصب نشده"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2214
+msgid "Installed But Not Activated"
+msgstr "نصب شده است اما فعال نیست"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2216
+msgid "Active"
+msgstr "فعال"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2222
+msgid "Required Update not Available"
+msgstr "بروز رسانی مورد نیاز در دسترس نیست"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2225
+msgid "Requires Update"
+msgstr "به روز رسانی مورد نیاز"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2228
+msgid "Update recommended"
+msgstr "به روز رسانی توصیه شده"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2236
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2281
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2284
+#, fuzzy, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "برای نصب <span class=\"count\">(%s)</span>"
+msgstr[1] "برای نصب <span class=\"count\">(%s)</span>"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2287
+#, fuzzy, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "بروزرسانی موجود است <span class=\"count\">(%s)</span>"
+msgstr[1] "بروزرسانی موجود است <span class=\"count\">(%s)</span>"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2290
+#, fuzzy, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "جهت فعال سازی <span class=\"count\">(%s)</span>"
+msgstr[1] "جهت فعال سازی <span class=\"count\">(%s)</span>"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2372
+msgid "unknown"
+msgstr "ناشناخته"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2380
+msgid "Installed version:"
+msgstr "نسخه نصب شده:"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2388
+msgid "Minimum required version:"
+msgstr "حداقل نسخه مورد نیاز:"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2400
+msgid "Available version:"
+msgstr "نسخه در دسترس:"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2423
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"هیچ افزونه ای برای نصب، بروز رسانی و فعال سازی موجود نیست.<a "
+"href=“%1$s”>بازگشت به پیشخوان</a>"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2437
+msgid "Plugin"
+msgstr "افزونه"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2438
+msgid "Source"
+msgstr "منبع"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2439
+msgid "Type"
+msgstr "نوع"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2443
+msgid "Version"
+msgstr "نسخه"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2444
+msgid "Status"
+msgstr "وضعیت"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2492
+#, php-format
+msgid "Install %2$s"
+msgstr "نصب %2$s"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "Update %2$s"
+msgstr "بروزرسانی  %2$s"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2501
+#, php-format
+msgid "Activate %2$s"
+msgstr "فعال کردن  %2$s"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2571
+msgid "Upgrade message from the plugin author:"
+msgstr "پیام ارتقا از طرف نویسنده افزونه:"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2604
+msgid "Install"
+msgstr "نصب"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2610
+msgid "Update"
+msgstr "بروز رسانی"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2613
+msgid "Activate"
+msgstr "فعال‌سازی"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2644
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "هیچ افزونه ای برای نصب انتخاب نشده بود. هیچ اقدامی صورت نگرفت."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2646
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "پلاگینی برای بروزرسانی انتخاب نشده.اقدامی انجام نشد."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2682
+msgid "No plugins are available to be installed at this time."
+msgstr "افزونه ای در حال حاضر جهت نصب در دسترس نیست."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2684
+msgid "No plugins are available to be updated at this time."
+msgstr "افزونه ای در حال حاضر جهت بروزرسانی در دسترس نیست."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2789
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ افزونه ای برای فعال شدن انتخاب نشده است. هیچ عملی صورت نگرفته."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:2815
+msgid "No plugins are available to be activated at this time."
+msgstr "هیچ افزونه ای در حال حاضر برای فعالسازی در دسترس نیست."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3029
+msgid "Plugin activation failed."
+msgstr "فعال سازی افزونه با شکست مواجه شده است."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3363
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال بروزرسانی افزونه  %1$s (%2$d/%3$d)"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "در هنگام نصب خطایی رخ داده است  %1$s: <strong>%2$s</strong>."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3366
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "نصب %1$s با خطا روبرو شد."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3370
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"فرآیند نصب و فعالسازی شروع شد. این عمل کمی زمان‌بر است. لطفاً صبر داشته باشید."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3371
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr " نصب و فعال سازی %1$s با موفقیت انجام شد."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3371
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3377
+msgid "Show Details"
+msgstr "نمایش جزییات"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3371
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3377
+msgid "Hide Details"
+msgstr "پنهان کردن جزییات"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3372
+msgid "All installations and activations have been completed."
+msgstr "همه نصب و فعالسازی ها کامل شده اند."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3373
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعال سازی افزونه  %1$s (%2$d/%3$d)"
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3376
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"مراحل نصب شروع شده است. این فرآیند ممکن است در بعضی از هاستها طول بکشد پس "
+"لطفا صبور باشید."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s با موفقیت نصب شد."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3378
+msgid "All installations have been completed."
+msgstr "همه مراحل نصب کامل شده است."
+
+#: themes/bookie/inc/core/class-tgm-plugin-activation.php:3379
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال نصب افزونه %1$s (%2$d/%3$d)"
+
+#: themes/bookie/inc/core/frontend.php:211
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr "این محتوا با رمز محافظت شده است. برای مشاهده رمز را در پایین وارد کنید:"
+
+#: themes/bookie/inc/core/frontend.php:214
+msgid "Password:"
+msgstr "رمز عبور :"
+
+#: themes/bookie/inc/core/frontend.php:215
+msgid "Password"
+msgstr "رمز عبور"
+
+#: themes/bookie/inc/core/frontend.php:217
+#: themes/bookie/inc/theme/frontend.php:111
+msgid "Submit"
+msgstr "ارسال"
+
+#: themes/bookie/inc/core/frontend.php:282
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: themes/bookie/inc/core/frontend.php:313
+#: themes/bookie/inc/core/frontend.php:426
+msgid "Post navigation"
+msgstr "پیمایش نوشته"
+
+#: themes/bookie/inc/core/frontend.php:387
+msgid "&hellip;"
+msgstr ""
+
+#: themes/bookie/inc/core/frontend.php:428
+msgid "&larr;"
+msgstr ""
+
+#: themes/bookie/inc/core/frontend.php:429
+msgid "&rarr;"
+msgstr ""
+
+#: themes/bookie/inc/core/post-formats-ui.php:80
+msgid "Gallery Images"
+msgstr "گالری تصاویر"
+
+#: themes/bookie/inc/core/post-formats-ui.php:112
+#: themes/bookie/inc/core/post-formats-ui.php:124
+msgid "Delete"
+msgstr "پاک کردن"
+
+#: themes/bookie/inc/core/post-formats-ui.php:124
+msgid "Add Images to Gallery"
+msgstr "افزودن عکس به گالری"
+
+#: themes/bookie/inc/core/post-formats-ui.php:124
+msgid "Add to gallery"
+msgstr "افزودن به گالری"
+
+#: themes/bookie/inc/core/post-formats-ui.php:124
+msgid "Delete image"
+msgstr "پاک کردن تصویر"
+
+#: themes/bookie/inc/core/post-formats-ui.php:124
+msgid "Add gallery images"
+msgstr "افزودن گالری تصاویر"
+
+#: themes/bookie/inc/core/update.php:16
+msgid "Theme Update"
+msgstr "به‌روز رسانی قالب"
+
+#: themes/bookie/inc/core/update.php:24
+msgid "Theme Update Options"
+msgstr "تنظیمات به روز رسانی قالب"
+
+#: themes/bookie/inc/core/update.php:33
+msgid "License Key"
+msgstr "لایسنس"
+
+#: themes/bookie/inc/core/update.php:37
+msgid "Enter your license key"
+msgstr "کد لایسنس خود را وارد کنید"
+
+#: themes/bookie/inc/core/update.php:43
+msgid ""
+"Note: If you purchase this theme from ThemeForest, License Key is your "
+"Purchase Code."
+msgstr ""
+
+#: themes/bookie/inc/core/update.php:124
+msgid ""
+"Updating this parent theme will lose any customizations you have made. Please "
+"consider using child theme for modifications. 'Cancel' to stop, 'OK' to "
+"update."
+msgstr ""
+"به روز رسانی این پوسته باعث از بین رفتن هر نوع تنظیمات است که شما روی آن "
+"اعمال کرده اید. 'Cancel' برای انصراف، 'OK' برای به روز رسانی."
+
+#: themes/bookie/inc/theme/admin.php:5
+msgid "Header Settings"
+msgstr "تنظیمات هدر"
+
+#: themes/bookie/inc/theme/admin.php:24
+msgid "Header Slider"
+msgstr "اسلایدر هدر"
+
+#: themes/bookie/inc/theme/admin.php:29
+msgid "Choose Slider"
+msgstr "انتخاب اسلایدر"
+
+#: themes/bookie/inc/theme/admin.php:38
+msgid "Manage Sliders"
+msgstr "مدیریت اسلایدر"
+
+#: themes/bookie/inc/theme/admin.php:43
+msgid "Absolute Header"
+msgstr "هدر ثابت"
+
+#: themes/bookie/inc/theme/admin.php:47
+msgid "No"
+msgstr "خیر"
+
+#: themes/bookie/inc/theme/admin.php:48
+msgid "Yes"
+msgstr "بله"
+
+#: themes/bookie/inc/theme/breadcrumb.php:37
+msgid "Page"
+msgstr "برگه"
+
+#: themes/bookie/inc/theme/breadcrumb.php:110
+msgid "Search results for &ldquo;"
+msgstr "نتایج جستجو برای &ldquo;"
+
+#: themes/bookie/inc/theme/customize.php:11
+msgid "Background"
+msgstr "پس‌زمینه"
+
+#: themes/bookie/inc/theme/customize.php:32
+msgid "Header"
+msgstr "هدر"
+
+#: themes/bookie/inc/theme/customize.php:38
+msgid "Header Logo"
+msgstr "لوگوی هدر"
+
+#: themes/bookie/inc/theme/customize.php:59
+msgid "Header Logo Text"
+msgstr "متن لوگوی هدر"
+
+#: themes/bookie/inc/theme/customize.php:80
+msgid "Header Logo Image"
+msgstr "تصویر لوگوی هدر"
+
+#: themes/bookie/inc/theme/customize.php:100
+msgid "Disable Site Description"
+msgstr "غیر فعال کردن توضیحات سایت"
+
+#: themes/bookie/inc/theme/customize.php:126
+msgid "Disable Site Navigation"
+msgstr "غیرفعال کردن پیمایش سایت"
+
+#: themes/bookie/inc/theme/customize.php:147
+msgid "Disable Mini Cart"
+msgstr "غیر فعال کردن سبد خرید کوچک"
+
+#: themes/bookie/inc/theme/customize.php:153
+msgid "Book Search"
+msgstr "جستجوی کتاب"
+
+#: themes/bookie/inc/theme/customize.php:174
+msgid "Disable Book Search"
+msgstr "غیر فعال کردن جستجوی کتاب"
+
+#: themes/bookie/inc/theme/customize.php:192
+msgid "Footer"
+msgstr "فوتر"
+
+#: themes/bookie/inc/theme/customize.php:198
+msgid "Footer Banner"
+msgstr "بنر فوتر"
+
+#: themes/bookie/inc/theme/customize.php:219
+msgid "Disable Footer Banner"
+msgstr "غیر فعال کردن بنر فوتر"
+
+#: themes/bookie/inc/theme/customize.php:241
+msgid "Footer Banner Image"
+msgstr "تصویر بنر فوتر"
+
+#: themes/bookie/inc/theme/customize.php:260
+msgid "Footer Banner Title"
+msgstr "عنوان بنر فوتر"
+
+#: themes/bookie/inc/theme/customize.php:279
+msgid "Footer Banner Link URL"
+msgstr "آدرس لینک بنر فوتر"
+
+#: themes/bookie/inc/theme/customize.php:298
+msgid "Footer Banner Link Text"
+msgstr "متن لینک بنر فوتر"
+
+#: themes/bookie/inc/theme/customize.php:303
+msgid "Footer Social Icon"
+msgstr "آیکون های اجتماعی فوتر"
+
+#: themes/bookie/inc/theme/customize.php:324
+msgid "Disable Social Icons"
+msgstr "غیر فعال کردن آیکون های اجتماعی فوتر"
+
+#: themes/bookie/inc/theme/customize.php:348
+#, php-format
+msgid "%s URL"
+msgstr ""
+
+#: themes/bookie/inc/theme/customize.php:356
+msgid "Footer Credit"
+msgstr "اعتبار فوتر"
+
+#: themes/bookie/inc/theme/customize.php:377
+msgid "Footer Credit Text"
+msgstr "متن اعتبار فوتر"
+
+#: themes/bookie/inc/theme/customize.php:395
+msgid "Contact Page Template"
+msgstr "محتوای برگه نمونه"
+
+#: themes/bookie/inc/theme/customize.php:414
+msgid "DISABLE Google Map"
+msgstr "غیر فعال کردن نقشه گوگل"
+
+#: themes/bookie/inc/theme/customize.php:433
+msgid "Map Latitude"
+msgstr "نقشه عرض جغرافیایی"
+
+#: themes/bookie/inc/theme/customize.php:451
+msgid "Map Longitude"
+msgstr "نقشه طول جغرافیایی"
+
+#: themes/bookie/inc/theme/customize.php:469 themes/bookie/page_contact.php:89
+msgid "Marker Title"
+msgstr "عنوان نشانگر"
+
+#: themes/bookie/inc/theme/customize.php:488
+msgid "Marker Description"
+msgstr "نشانگر توضیحات"
+
+#: themes/bookie/inc/theme/frontend.php:20
+#: themes/bookie/inc/theme/frontend.php:21
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+#: themes/bookie/inc/theme/frontend.php:21
+msgid "Search&hellip;"
+msgstr "جستجو &hellip;"
+
+#: themes/bookie/inc/theme/frontend.php:22
+msgid "Search"
+msgstr "جستجو"
+
+#: themes/bookie/inc/theme/frontend.php:105
+msgid "Leave a Message"
+msgstr "درج پیام"
+
+#: themes/bookie/inc/theme/frontend.php:107
+msgid "Message via the contact form"
+msgstr "پیام از طریق فرم تماس"
+
+#: themes/bookie/inc/theme/frontend.php:142
+msgid "Please enter your name"
+msgstr "لطفا نام خود را وارد کنید"
+
+#: themes/bookie/inc/theme/frontend.php:146
+msgid "Please enter your email address (and please make sure it's valid)"
+msgstr "لطفا آدرس ایمیل خود را وارد کنید (و لطفا مطمئن شوید که آن  معتبر است )"
+
+#: themes/bookie/inc/theme/frontend.php:150
+msgid "Please enter your message"
+msgstr "لطفا پیام خود را وارد"
+
+#: themes/bookie/inc/theme/frontend.php:155
+msgid "Your answer was wrong!"
+msgstr "پاسخ شما اشتباه بود!"
+
+#: themes/bookie/inc/theme/frontend.php:158
+msgid "Please enter your answer"
+msgstr "لطفا پاسخ خود را وارد کنید"
+
+#: themes/bookie/inc/theme/frontend.php:162
+msgid "There were one or more errors while submitting the form."
+msgstr "یک یا چندین خطا در فرم وجود دارد."
+
+#: themes/bookie/inc/theme/frontend.php:181
+msgid "Email:"
+msgstr "ایمیل:"
+
+#: themes/bookie/inc/theme/frontend.php:182
+msgid "Name:"
+msgstr "نام:"
+
+#: themes/bookie/inc/theme/frontend.php:183
+msgid "IP Address:"
+msgstr "آدرس IP:"
+
+#: themes/bookie/inc/theme/frontend.php:183
+msgid "User Agent:"
+msgstr "عامل کاربر:"
+
+#: themes/bookie/inc/theme/frontend.php:193
+msgid "[COPY]"
+msgstr "[کپی]"
+
+#: themes/bookie/inc/theme/frontend.php:202
+msgid "Your email was successfully sent."
+msgstr "ایمیل شما با موفقیت ارسال شد."
+
+#: themes/bookie/inc/theme/frontend.php:205
+msgid ""
+"There were technical error while submitting the form. Sorry for the "
+"inconvenience."
+msgstr "یک خطای فنی هنگام ارسال فرم رخ داده. با عرض پوزش از ناراحتی شما."
+
+#: themes/bookie/inc/theme/frontend.php:218
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr "ایمیل به درستی تکمیل نشده است. لطفا ایمیل ارتباطی خود را وارد نمائید."
+
+#: themes/bookie/inc/theme/frontend.php:244
+msgid "Your Message"
+msgstr "پیام شما"
+
+#: themes/bookie/inc/theme/frontend.php:253
+msgid "Your Answer"
+msgstr "پاسخ شما"
+
+#: themes/bookie/inc/theme/frontend.php:266
+msgid "Send a copy of this email to you"
+msgstr "ارسال یک کپی از این ایمیل به  شما"
+
+#: themes/bookie/inc/theme/frontend.php:275
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr "اگر میخواهید این فرم را ارسال کنید، در این کادر چیزی ننویسید"
+
+#: themes/bookie/inc/theme/plugins.php:122
+msgid "Bookie - Home 1"
+msgstr "صفحه اصلی 1"
+
+#: themes/bookie/inc/theme/plugins.php:127
+msgid "Bookie - Home 2"
+msgstr "صفحه اصلی 2"
+
+#: themes/bookie/inc/theme/plugins.php:132
+msgid "Bookie - Home 3"
+msgstr "صفحه اصلی 3"
+
+#: themes/bookie/inc/woocommerce/customize.php:16
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: themes/bookie/inc/woocommerce/customize.php:25
+msgid "Shop (Product Grid)"
+msgstr "فروشگاه (محصولات مشبک)"
+
+#: themes/bookie/inc/woocommerce/customize.php:47
+msgid "Shop Page Layout"
+msgstr "طرح بندی فروشگاه"
+
+#: themes/bookie/inc/woocommerce/customize.php:70
+msgid "Number of products per page"
+msgstr "تعداد محصول در هر صفحه"
+
+#: themes/bookie/inc/woocommerce/customize.php:92
+msgid "Number of columns per row"
+msgstr "تعداد ستون در هر سطر"
+
+#: themes/bookie/inc/woocommerce/customize.php:115
+msgid "DISABLE result count"
+msgstr "غیرفعال کردن تعداد نتایج"
+
+#: themes/bookie/inc/woocommerce/customize.php:137
+msgid "DISABLE catalog ordering"
+msgstr "غیرفعال کردن مرتب سازی کاتالوگ"
+
+#: themes/bookie/inc/woocommerce/customize.php:159
+#: themes/bookie/inc/woocommerce/customize.php:279
+msgid "DISABLE product sale flash"
+msgstr "غیر فعال کردن فلش فروش محصول"
+
+#: themes/bookie/inc/woocommerce/customize.php:181
+msgid "DISABLE product title"
+msgstr "غیر فعال کردن عنوان محصول"
+
+#: themes/bookie/inc/woocommerce/customize.php:203
+#: themes/bookie/inc/woocommerce/customize.php:323
+msgid "DISABLE product price"
+msgstr "غیر فعال کردن قیمت محصول"
+
+#: themes/bookie/inc/woocommerce/customize.php:225
+msgid "ENABLE product rating"
+msgstr "فعال کردن رتبه دهی محصول"
+
+#: themes/bookie/inc/woocommerce/customize.php:247
+msgid "ENABLE \"add to cart\" button"
+msgstr "فعال کردن دکمه افزودن به سبد خرید"
+
+#: themes/bookie/inc/woocommerce/customize.php:256
+msgid "Single Product"
+msgstr "محصول تکی"
+
+#: themes/bookie/inc/woocommerce/customize.php:301
+msgid "DISABLE product rating"
+msgstr "غیر فعال کردن رتبه دهی محصول"
+
+#: themes/bookie/inc/woocommerce/customize.php:345
+msgid "DISABLE product short description"
+msgstr "غیر فعال کردن توضیح کوتاه محصول"
+
+#: themes/bookie/inc/woocommerce/customize.php:367
+msgid "DISABLE \"add to cart\" button"
+msgstr "غیر فعال کردن دکمه \"افزودن به سبد خرید\""
+
+#: themes/bookie/inc/woocommerce/customize.php:389
+msgid "DISABLE product meta (sku, category, tag)"
+msgstr "غیر فعال کردن متا محصول (sku، دسته بندی، برچسب)"
+
+#: themes/bookie/inc/woocommerce/customize.php:411
+msgid "DISABLE product description"
+msgstr "غیر فعال کردن توضیحات محصول"
+
+#: themes/bookie/inc/woocommerce/customize.php:433
+msgid "DISABLE product attributes (additional information)"
+msgstr "غیر فعال کردن ویژگی های محصول (اطلاعات اضافی)"
+
+#: themes/bookie/inc/woocommerce/customize.php:455
+msgid "DISABLE product review"
+msgstr "غیر فعال کردن بررسی محصول"
+
+#: themes/bookie/inc/woocommerce/customize.php:477
+msgid "DISABLE upsells products"
+msgstr "غیر فعال کردن محصولات تخفیفی"
+
+#: themes/bookie/inc/woocommerce/customize.php:499
+msgid "DISABLE related products"
+msgstr "غیر فعال کردن محصولات مرتبط"
+
+#: themes/bookie/inc/woocommerce/customize.php:508
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: themes/bookie/inc/woocommerce/customize.php:531
+msgid "DISABLE cross-sells products"
+msgstr "غیر فعال کردن محصولات Cross Sells"
+
+#: themes/bookie/inc/woocommerce/customize.php:540
+msgid "My Account"
+msgstr "حساب کاربری من"
+
+#: themes/bookie/inc/woocommerce/customize.php:563
+msgid "ENABLE registration on \"My Account\" page"
+msgstr "فعال سازی نام نویسی در برگه \"حساب کاربری من\""
+
+#: themes/bookie/inc/woocommerce/customize.php:585
+msgid "Redirect URL After Customer Login"
+msgstr "هدایت مجدد به URL پس از ورود مشتری"
+
+#: themes/bookie/inc/woocommerce/customize.php:591
+msgid "Custom Search - WooCommerce"
+msgstr "جستجوی سفارشی - ووکامرس"
+
+#: themes/bookie/inc/woocommerce/customize.php:612
+msgid "Disable Custom Search in WooCommerce Section"
+msgstr "غیرفعال کردن جستجوی سفارشی در ووکامرس"
+
+#: themes/bookie/inc/woocommerce/frontend.php:136
+msgid "Buy"
+msgstr "خرید"
+
+#: themes/bookie/inc/woocommerce/frontend.php:147
+msgid "Detail"
+msgstr "جزییات"
+
+#: themes/bookie/page_contact.php:93
+msgid "Marker Content"
+msgstr "نشانگر محتوا "
+
+#: themes/bookie/sidebar-shop.php:10 themes/bookie/sidebar.php:10
+#, php-format
+msgid ""
+"This is %1$s widget area. Visit your <a href=\"%2$s\">Widgets Page</a> to add "
+"new widget to this area."
+msgstr ""
+"این مکان ابزارک %1$s است. به صفحه <a href=\"%2$s\">ویجت</a>خود بروید برای "
+"افزودن ابزارک جدید به این مکان."
+
+#: themes/bookie/single.php:32
+msgid "Previous post:"
+msgstr "نوشته قبلی:"
+
+#: themes/bookie/single.php:38
+msgid "Next post:"
+msgstr "نوشته بعدی:"
+
+#: themes/bookie/woocommerce/content-product_cat.php:66
+msgid "More"
+msgstr "بیشتر"
+
+#: themes/bookie/woocommerce/single-product/related.php:45
+msgid "Related Products"
+msgstr "محصولات مرتبط"
+
+#: themes/bookie/woocommerce/single-product/up-sells.php:46
+msgid "You may also like&hellip;"
+msgstr "همچنین ممکن است شما دوست داشته باشید&hellip;"
+
+#~ msgid "One Comment on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "یک دیدگاه در مورد &ldquo;%2$s&rdquo;"
+#~ msgstr[1] "%1$s دیدگاه در مورد &ldquo;%2$s&rdquo;"
+
+#, fuzzy
+#~ msgid "All <span class=\"count\">(%s)</span>"
+#~ msgid_plural "All <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "همه <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "همه <span class=\"count\">(%s)</span>"
+
+#~ msgid "One Comment on "
+#~ msgstr "یک نظر در"
+
+#~ msgid "%1$s Comments on &ldquo;%2$s&rdquo;"
+#~ msgstr "%1$s دیدگاه درمورد &ldquo;%2$s&rdquo;"

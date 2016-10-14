@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="bookie-wp">
+            <key name="header_logo_text" />
+            <key name="toko_footer_banner_title" />
+            <key name="toko_footer_banner_url" />
+            <key name="toko_footer_banner_link" />
+            <key name="footer_credit" />
+            <key name="contact_map_marker_title" />
+            <key name="contact_map_marker_desc" />
+        </key>
+    </admin-texts>    
+</wpml-config>

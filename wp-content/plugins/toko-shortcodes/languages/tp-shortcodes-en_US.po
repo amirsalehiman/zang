@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TokoPress Shortcodes & Visual Composer v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-16 16:05:35+0000\n"
+"Last-Translator: tokopressdemo <demo@toko.press>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: vc-elements/vc-banners.php:62
+#@ tp-shortcodes
+msgid "Banner URL"
+msgstr ""
+
+#: vc-elements/vc-banners.php:67
+#@ tp-shortcodes
+msgid "Banner Image"
+msgstr ""
+
+#: vc-elements/vc-banners.php:72
+#@ tp-shortcodes
+msgid "Banner Title"
+msgstr ""
+
+#: vc-elements/vc-banners.php:77
+#@ tp-shortcodes
+msgid "Top Description"
+msgstr ""
+
+#: vc-elements/vc-banners.php:82
+#@ tp-shortcodes
+msgid "Bottom Description"
+msgstr ""
+
+#: vc-elements/vc-banners.php:87
+#@ tp-shortcodes
+msgid "Text Alignment"
+msgstr ""
+
+#: vc-elements/vc-banners.php:90
+#: vc-elements/vc-call-to-action.php:90
+#: vc-elements/vc-divider.php:139
+#: vc-elements/vc-divider.php:151
+#@ tp-shortcodes
+msgid "Left"
+msgstr ""
+
+#: vc-elements/vc-banners.php:91
+#: vc-elements/vc-call-to-action.php:91
+#: vc-elements/vc-divider.php:140
+#: vc-elements/vc-divider.php:152
+#@ tp-shortcodes
+msgid "Right"
+msgstr ""
+
+#: vc-elements/vc-banners.php:92
+#: vc-elements/vc-call-to-action.php:89
+#: vc-elements/vc-divider.php:138
+#@ tp-shortcodes
+msgid "Center"
+msgstr ""
+
+#: vc-elements/vc-banners.php:98
+#@ tp-shortcodes
+msgid "Banner Type"
+msgstr ""
+
+#: vc-elements/vc-banners.php:101
+#@ tp-shortcodes
+msgid "Big"
+msgstr ""
+
+#: vc-elements/vc-banners.php:102
+#@ tp-shortcodes
+msgid "Medium"
+msgstr ""
+
+#: vc-elements/vc-brands.php:85
+#: vc-elements/vc-wc-product-categories.php:210
+#: vc-elements/vc-wc-products.php:285
+#@ tp-shortcodes
+msgid "Carousel"
+msgstr ""
+
+#: vc-elements/vc-brands.php:88
+#: vc-elements/vc-brands.php:98
+#: vc-elements/vc-divider.php:128
+#: vc-elements/vc-wc-product-categories.php:213
+#: vc-elements/vc-wc-product-categories.php:223
+#: vc-elements/vc-wc-products.php:288
+#: vc-elements/vc-wc-products.php:298
+#: vc-elements/vc-wc-products.php:313
+#: vc-elements/vc-wc-products.php:323
+#@ tp-shortcodes
+msgid "Yes"
+msgstr ""
+
+#: vc-elements/vc-brands.php:89
+#: vc-elements/vc-brands.php:99
+#: vc-elements/vc-divider.php:129
+#: vc-elements/vc-wc-product-categories.php:214
+#: vc-elements/vc-wc-product-categories.php:224
+#: vc-elements/vc-wc-products.php:289
+#: vc-elements/vc-wc-products.php:299
+#: vc-elements/vc-wc-products.php:312
+#: vc-elements/vc-wc-products.php:322
+#@ tp-shortcodes
+msgid "No"
+msgstr ""
+
+#: vc-elements/vc-brands.php:95
+#: vc-elements/vc-wc-product-categories.php:220
+#: vc-elements/vc-wc-products.php:295
+#@ tp-shortcodes
+msgid "Carousel Control"
+msgstr ""
+
+#: vc-elements/vc-brands.php:105
+#: vc-elements/vc-posts.php:107
+#: vc-elements/vc-wc-product-categories.php:173
+#: vc-elements/vc-wc-products.php:239
+#@ tp-shortcodes
+msgid "Columns"
+msgstr ""
+
+#: vc-elements/vc-brands.php:106
+#: vc-elements/vc-posts.php:108
+#: vc-elements/vc-wc-product-categories.php:174
+#: vc-elements/vc-wc-products.php:240
+#@ tp-shortcodes
+msgid "How many columns per row"
+msgstr ""
+
+#: vc-elements/vc-brands.php:109
+#: vc-elements/vc-posts.php:114
+#: vc-elements/vc-wc-product-categories.php:177
+#: vc-elements/vc-wc-products.php:243
+#@ tp-shortcodes
+msgid "1 Column"
+msgstr ""
+
+#: vc-elements/vc-brands.php:110
+#: vc-elements/vc-posts.php:113
+#: vc-elements/vc-wc-product-categories.php:178
+#: vc-elements/vc-wc-products.php:244
+#@ tp-shortcodes
+msgid "2 Columns"
+msgstr ""
+
+#: vc-elements/vc-brands.php:111
+#: vc-elements/vc-posts.php:112
+#: vc-elements/vc-wc-product-categories.php:179
+#: vc-elements/vc-wc-products.php:245
+#@ tp-shortcodes
+msgid "3 Columns"
+msgstr ""
+
+#: vc-elements/vc-brands.php:112
+#: vc-elements/vc-posts.php:111
+#: vc-elements/vc-wc-product-categories.php:180
+#: vc-elements/vc-wc-products.php:246
+#@ tp-shortcodes
+msgid "4 Columns"
+msgstr ""
+
+#: vc-elements/vc-brands.php:113
+#: vc-elements/vc-wc-product-categories.php:181
+#: vc-elements/vc-wc-products.php:247
+#@ tp-shortcodes
+msgid "5 Columns"
+msgstr ""
+
+#: vc-elements/vc-brands.php:122
+#, php-format
+#@ tp-shortcodes
+msgid "Image #%s"
+msgstr ""
+
+#: vc-elements/vc-brands.php:127
+#, php-format
+#@ tp-shortcodes
+msgid "Image URL #%s"
+msgstr ""
+
+#: vc-elements/vc-call-to-action.php:56
+#: vc-elements/vc-divider.php:160
+#: vc-elements/vc-posts.php:125
+#: vc-elements/vc-wc-products.php:260
+#@ tp-shortcodes
+msgid "Title"
+msgstr ""
+
+#: vc-elements/vc-call-to-action.php:61
+#: vc-elements/vc-divider.php:165
+#@ tp-shortcodes
+msgid "Description"
+msgstr ""
+
+#: vc-elements/vc-call-to-action.php:66
+#@ tp-shortcodes
+msgid "Button Text"
+msgstr ""
+
+#: vc-elements/vc-call-to-action.php:71
+#@ tp-shortcodes
+msgid "Button URL"
+msgstr ""
+
+#: vc-elements/vc-call-to-action.php:76
+#@ tp-shortcodes
+msgid "Button Type"
+msgstr ""
+
+#: vc-elements/vc-call-to-action.php:79
+#@ tp-shortcodes
+msgid "Button"
+msgstr ""
+
+#: vc-elements/vc-call-to-action.php:80
+#@ tp-shortcodes
+msgid "Link"
+msgstr ""
+
+#: vc-elements/vc-call-to-action.php:86
+#: vc-elements/vc-divider.php:135
+#@ tp-shortcodes
+msgid "Text Position"
+msgstr ""
+
+#: vc-elements/vc-divider.php:125
+#@ tp-shortcodes
+msgid "Horizontal Line"
+msgstr ""
+
+#: vc-elements/vc-divider.php:141
+#@ tp-shortcodes
+msgid "No Text"
+msgstr ""
+
+#: vc-elements/vc-divider.php:147
+#@ tp-shortcodes
+msgid "Icon Position"
+msgstr ""
+
+#: vc-elements/vc-divider.php:150
+#@ tp-shortcodes
+msgid "No Icon"
+msgstr ""
+
+#: vc-elements/vc-divider.php:153
+#@ tp-shortcodes
+msgid "Top"
+msgstr ""
+
+#: vc-elements/vc-divider.php:154
+#@ tp-shortcodes
+msgid "Bottom"
+msgstr ""
+
+#: vc-elements/vc-divider.php:170
+#@ tp-shortcodes
+msgid "Icon"
+msgstr ""
+
+#: vc-elements/vc-divider.php:183
+#@ tp-shortcodes
+msgid "Divider Background Color"
+msgstr ""
+
+#: vc-elements/vc-divider.php:184
+#@ tp-shortcodes
+msgid "Default background is white, please match the background color with the row background color to get the best result"
+msgstr ""
+
+#: vc-elements/vc-mailchimp.php:23
+#@ tp-shortcodes
+msgid "Toko - Subscribe Form"
+msgstr ""
+
+#: vc-elements/vc-mailchimp.php:24
+#@ tp-shortcodes
+msgid "Displays your custom MailChimp for WordPress sign-up form"
+msgstr ""
+
+#: vc-elements/vc-mailchimp.php:45
+#@ tp-shortcodes
+msgid "Newsletter"
+msgstr ""
+
+#: vc-elements/vc-mailchimp.php:49
+#@ tp-shortcodes
+msgid "Title:"
+msgstr ""
+
+#: vc-elements/vc-mailchimp.php:53
+#@ tp-shortcodes
+msgid "Form Description"
+msgstr ""
+
+#: vc-elements/vc-mailchimp.php:57
+#, php-format
+#@ tp-shortcodes
+msgid "You can edit your sign-up form in the %sMailChimp for WordPress form settings%s."
+msgstr ""
+
+#: vc-elements/vc-posts.php:95
+#@ tp-shortcodes
+msgid "Post Type"
+msgstr ""
+
+#: vc-elements/vc-posts.php:101
+#@ tp-shortcodes
+msgid "Number Of Posts"
+msgstr ""
+
+#: vc-elements/vc-posts.php:120
+#: vc-elements/vc-wc-product-categories.php:187
+#: vc-elements/vc-wc-products.php:253
+#@ tp-shortcodes
+msgid "Order By"
+msgstr ""
+
+#: vc-elements/vc-posts.php:123
+#: vc-elements/vc-wc-products.php:256
+#@ tp-shortcodes
+msgid "Date"
+msgstr ""
+
+#: vc-elements/vc-posts.php:124
+#: vc-elements/vc-wc-product-categories.php:194
+#: vc-elements/vc-wc-products.php:261
+#@ tp-shortcodes
+msgid "ID"
+msgstr ""
+
+#: vc-elements/vc-posts.php:126
+#: vc-elements/vc-wc-product-categories.php:191
+#@ tp-shortcodes
+msgid "Name"
+msgstr ""
+
+#: vc-elements/vc-posts.php:127
+#@ tp-shortcodes
+msgid "Comment Count"
+msgstr ""
+
+#: vc-elements/vc-posts.php:128
+#@ tp-shortcodes
+msgid "Author"
+msgstr ""
+
+#: vc-elements/vc-posts.php:133
+#: vc-elements/vc-wc-product-categories.php:200
+#: vc-elements/vc-wc-products.php:271
+#@ tp-shortcodes
+msgid "Order"
+msgstr ""
+
+#: vc-elements/vc-posts.php:136
+#: vc-elements/vc-wc-product-categories.php:204
+#: vc-elements/vc-wc-products.php:274
+#@ tp-shortcodes
+msgid "Descending"
+msgstr ""
+
+#: vc-elements/vc-posts.php:137
+#: vc-elements/vc-wc-product-categories.php:203
+#: vc-elements/vc-wc-products.php:275
+#@ tp-shortcodes
+msgid "Ascending"
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:113
+#: vc-elements/vc-wc-products.php:163
+#@ tp-shortcodes
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:151
+#@ tp-shortcodes
+msgid "[All Categories]"
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:152
+#@ tp-shortcodes
+msgid "[Top Level Only]"
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:159
+#@ tp-shortcodes
+msgid "Parent Category"
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:162
+#@ tp-shortcodes
+msgid "Useful to show subcategories"
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:166
+#: vc-elements/vc-wc-products.php:232
+#@ tp-shortcodes
+msgid "Numbers"
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:167
+#@ tp-shortcodes
+msgid "How many categories to show"
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:190
+#@ tp-shortcodes
+msgid "None"
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:192
+#@ tp-shortcodes
+msgid "Count"
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:193
+#@ tp-shortcodes
+msgid "Slug"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:208
+#@ tp-shortcodes
+msgid "Show"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:211
+#@ tp-shortcodes
+msgid "All Products"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:212
+#@ tp-shortcodes
+msgid "Featured Products"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:213
+#@ tp-shortcodes
+msgid "On-sale Products"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:214
+#@ tp-shortcodes
+msgid "Best Selling Products"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:215
+#@ tp-shortcodes
+msgid "Top Rated Products"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:216
+#@ tp-shortcodes
+msgid "Products In A Category"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:222
+#@ tp-shortcodes
+msgid "Category"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:233
+#@ tp-shortcodes
+msgid "How many products to show"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:257
+#@ tp-shortcodes
+msgid "Price"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:258
+#@ tp-shortcodes
+msgid "Sales"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:259
+#@ tp-shortcodes
+msgid "Random"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:309
+#@ tp-shortcodes
+msgid "Hide Free Products"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:319
+#@ tp-shortcodes
+msgid "Show Hidden Products"
+msgstr ""
+
+#: vc-elements/vc-banners.php:109
+#@ tp-shortcodes
+msgid "TP - Banner"
+msgstr ""
+
+#: vc-elements/vc-brands.php:133
+#@ tp-shortcodes
+msgid "TP - Brands"
+msgstr ""
+
+#: vc-elements/vc-call-to-action.php:98
+#@ tp-shortcodes
+msgid "TP - Call To Action"
+msgstr ""
+
+#: vc-elements/vc-divider.php:191
+#@ tp-shortcodes
+msgid "TP - Divider / Heading"
+msgstr ""
+
+#: vc-elements/vc-posts.php:143
+#@ tp-shortcodes
+msgid "TP - Posts Grid"
+msgstr ""
+
+#: vc-elements/vc-wc-product-categories.php:235
+#@ tp-shortcodes
+msgid "TP - WooCommerce Product Categories"
+msgstr ""
+
+#: vc-elements/vc-wc-products.php:330
+#@ tp-shortcodes
+msgid "TP - WooCommerce Products"
+msgstr ""
+

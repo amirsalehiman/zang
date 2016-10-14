@@ -1,0 +1,25 @@
+/*
+Theme Name: Ketab Forosh 
+Author: Javad mahmoudi
+Version: 1.1.2
+*/
+
+#woocommerce_product_categories-2 .children {
+	padding-right: 15px;
+}
+
+.download-url {
+	font-weight: 900;
+	font-size: 30px;
+	color: orange;
+}
+
+.download-url a {
+    font-size: 17px;
+    font-weight: 900;
+    color: red;
+}
+
+.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+  display: none;
+}
